@@ -29,4 +29,4 @@ HTML5 trabaja de la mano con CSS3 para crear páginas web que usamos todos los d
 Aprender a utilizar las etiquetas estándar de HTML5 y los estilos de CSS3.
 
  ## 4. Link a Deno
-Aquí puedes visualizar mi proyecto terminado: [Clonación de Google (https://dashing-granita-fee5f4.netlify.app/)
+Aquí puedes visualizar mi proyecto terminado: [Clonación de Google (https://clonacion-google-by-michellhb.netlify.app/)
